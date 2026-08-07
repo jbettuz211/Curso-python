@@ -8,3 +8,4 @@ var= input('Digite algo: ')
 
 #Dissecando a variavel
 print(f'O tipo da variavel é: {type(var)}')
+print(f'Ela é composta só de letras maiusculas?: ')
