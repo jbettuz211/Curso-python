@@ -7,3 +7,4 @@ var= ('Digite algo: ')
 var= input('Digite algo: ')
 
 #Dissecando a variavel
+print(f'O tipo da variavel é: {type(var)}')
