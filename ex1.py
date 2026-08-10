@@ -14,5 +14,5 @@ print(f'Ela só tem letras?: {var.isalpha()}')
 print(f'Ela só tem números e/ou letras?: {var.isalnum()}')
 print(f'Ela esta na tabela ASSCI?: {var.isascii()}')
 print(f'Ela é um número inteiro?: {var.isdecimal()}')
-print(f'Ela é um número sem caractereses especiais?: {var.isdigit}')
-
+print(f'Ela é um número sem caractereses especiais?: {var.isdigit()}')
+print(f'Nesta variavel só tem numéros?: {var.isnumeric()}')
