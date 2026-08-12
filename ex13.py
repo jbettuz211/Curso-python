@@ -1,4 +1,5 @@
 #Cateto e hipotenusa
+
 #Importando a biblioteca
 from math import hypot
 
